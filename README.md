@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+⚠️ **Dikkat:** Bu projeyi çalıştırmak için kendi Firebase projenizi oluşturmalı ve  
+`google-services.json` dosyasını `android/app` klasörüne eklemelisiniz.  
+Dosya güvenlik nedeniyle bu repo içinde yer almamaktadır.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
