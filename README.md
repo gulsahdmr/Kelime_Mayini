@@ -6,9 +6,22 @@ A new Flutter project.
 `google-services.json` dosyasını `android/app` klasörüne eklemelisiniz.  
 Dosya güvenlik nedeniyle bu repo içinde yer almamaktadır.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📱 Ekran Görüntüleri
+
+### 🏠 Ana Ekran
+![Ana Ekran](assets/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-06%20021642.png)
+### 🏠 Giriş Ekran
+![Giriş Ekran](assets/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-06%20021651.png)
+### 🎮 Oyun Başlangıç
+![Oyun Başlangıç](assets/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-26%20000027.png)
+
+### 🎮 Aktif ve Biten Oyunlar
+![Aktif ve Biten Oyunlar](assets/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20235921.png)
+
+# 🚀 Başlarken
+
+Flutter SDK'nın kurulu olduğundan emin olun. Daha sonra şu komutları kullanarak projeyi başlatabilirsiniz:
 
 A few resources to get you started if this is your first Flutter project:
 
